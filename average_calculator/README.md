@@ -18,4 +18,4 @@
 
 ## Even Number API -Response
 
-![Even Response](91.png)
+![Even Response](92.png)
