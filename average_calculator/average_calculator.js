@@ -60,6 +60,7 @@ app.get("/numbers/:numberid", async (req, res) => {
     res.json({
         windowPrevState: previousState,
         windowCurrState: numberWindow,
+        numbers: newNumbers,
         average: parseFloat(average)
     });
 });
